@@ -1,6 +1,8 @@
 # ATM-Interface
 ATM Interface in Java  The ATM interface is a Java application designed to provide a user-friendly and efficient experience for managing banking transactions. It incorporates the principles of Object-Oriented Programming (OOP) to organize the code into modular and reusable components.
 
+![image](https://github.com/user-attachments/assets/ae04cff6-c6ea-4a25-bef4-052df5dddce5)
+
 1. User Authentication:
 Users can securely log in using their unique credentials.
 Object-oriented design ensures encapsulation and protection of sensitive user information.
