@@ -3,6 +3,8 @@ ATM Interface in Java  The ATM interface is a Java application designed to provi
 
 ![image](https://github.com/user-attachments/assets/ae04cff6-c6ea-4a25-bef4-052df5dddce5)
 
+![Screenshot 2025-01-30 222604](https://github.com/user-attachments/assets/fb3c57bd-417e-4beb-b236-e227c5baf325)
+
 1. User Authentication:
 Users can securely log in using their unique credentials.
 Object-oriented design ensures encapsulation and protection of sensitive user information.
